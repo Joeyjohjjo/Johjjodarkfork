@@ -750,7 +750,7 @@ INSERT INTO `guild_shops` VALUES ('526', '4112', '682', '728', '80', '16', '32')
 INSERT INTO `guild_shops` VALUES ('526', '4116', '3375', '7560', '55', '0', '22');
 INSERT INTO `guild_shops` VALUES ('526', '4128', '4000', '10000', '30', '0', '12'); --Ether
 INSERT INTO `guild_shops` VALUES ('526', '4148', '1200', '1377', '80', '0', '32');
-INSERT INTO `guild_shops` VALUES ('526', '4150', '1945', '4200', '80', '0', '32'); --Eye Drops
+INSERT INTO `guild_shops` VALUES ('526', '4150', '120', '240', '40', '0', '0'); --Eye Drops
 INSERT INTO `guild_shops` VALUES ('526', '4151', '890', '900', '80', '0', '0'); --Echo Drops
 --deleted Holy Water
 INSERT INTO `guild_shops` VALUES ('526', '4162', '1250', '2500', '80', '0', '32'); --Silencing Potion
